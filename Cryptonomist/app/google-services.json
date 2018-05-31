@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "220559669050",
+    "firebase_url": "https://cryptonomist-ddcae.firebaseio.com",
+    "project_id": "cryptonomist-ddcae",
+    "storage_bucket": "cryptonomist-ddcae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220559669050:android:a0f8d30482c861ef",
+        "android_client_info": {
+          "package_name": "com.example.cryptonomist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220559669050-njl9b0537kp8q6pspqdp27mco6voclej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cryptonomist",
+            "certificate_hash": "d59e1b3efea4dfc116f8d6de6c8d82c2ef8d3168"
+          }
+        },
+        {
+          "client_id": "220559669050-jn7nsvjhjfhsilr9hbc2dr2h9lue6mbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDEKpX1hnDrjz_e3jBv2D3A8AuNNwIE0c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220559669050-jn7nsvjhjfhsilr9hbc2dr2h9lue6mbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
